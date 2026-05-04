@@ -1,7 +1,7 @@
 import "./global.css";
 
 export const metadata ={
-    title: "Next.js 13.4 App Router",
+    title: "A Simple Next.js task",
     description: "A simple Next.js 13.4 app router example",
 }
 
